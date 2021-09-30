@@ -1,18 +1,6 @@
 $(document).ready(function () {
-
-  var $body = $('body');
-  var $themeMenu = $('.resume-dropdown-menu > li > a');
-
-  $themeMenu.on('click', function(event) {
-
-    $body.attr('class', '');
-
-    var themeColor = $(this).attr('id');
-    var themeColorClass = "theme-" + themeColor;
+    var $body = $("body");
+    $body.attr("class", "");
+    var themeColorClass = "theme-" + "blue";
     $body.addClass(themeColorClass);
-
-    event.preventDefault();
-
-  });
-
 });

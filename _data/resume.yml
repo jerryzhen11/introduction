@@ -4,10 +4,10 @@ demo: true
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
+photo: "https://media-exp1.licdn.com/dms/image/C5103AQGVlveGrE3btw/profile-displayphoto-shrink_400_400/0/1563093122846?e=1638403200&v=beta&t=yRJDW9QILgYPBOj1HeH0HWRWvgbzL_6hXXvo6Fy0ugQ"
+name: "Jerry Xu"
 # copy: "I'm a UI/UX Developer based in Vancouver, Canada. More than five years of experience in design/development and have a passion for giving back to the local tech community as an instructor."
-copy: "I'm a UI/UX Developer based in Vancouver, Canada. Five years experience in design/development and my specialty is information architecture as well as rapid prototyping with scalable/modular CSS."
+copy: "I'm a full-stack developer based in Shanghai, China. Five years of experience in salesforce development and is curious aboout all kinds of new technology."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
@@ -19,4 +19,4 @@ copy: "I'm a UI/UX Developer based in Vancouver, Canada. Five years experience i
 # - purple
 # - teal
 # - green
-color: default
+color: blue
